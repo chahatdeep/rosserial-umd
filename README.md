@@ -3,7 +3,7 @@
 ## Setting up the communication protocol between Arduino and ROS:
 ### Prerequisites:
 1. `ros-indigo` or `ros-kinetic` should be setup!
-2. Download and install [Arduino IDE](http://arduino.cc/en/Main/Software) or simply do `sudo apt-get install arduino'. _Installing it in the `home` folder is *highly recommended!!*_
+2. Download and install [Arduino IDE](http://arduino.cc/en/Main/Software) or simply do `sudo apt-get install arduino`. _Installing it in the `home` folder is *highly recommended!!*_
 
 *Note: The `rosserial` ROS bindings are implemented as an Arduino Library. Like all other `Arduino Libraries`, `ros_lib` works by putting its library implementation into the `libraries' folder of your Arduino Sketchbook (Sketchbook location is a standard place to store Arduino programs, commonly known as sketeches).*
 
